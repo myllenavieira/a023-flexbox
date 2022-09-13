@@ -23,16 +23,26 @@ section{
 }
 
 #section-1{
+  flex-grow: 0;
+  order: 1;
 }
 
 #section-2{
+  flex-grow: 0.4;
+  order: 3;
 }
 
 #section-3{
+  flex-grow: 0.6;
+  order: 4;
 }
 
 #section-4{
+  flex-grow: 1;
+  order: 5;
 }
 
 #section-5{
+  flex-grow: 0;
+  order: 0;
 }
